@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #1e1e1e;
+    background-color: white;
     text-align: center;
     padding: 2em 1em;
     border-bottom: 2px solid #444;
@@ -23,7 +23,7 @@ section {
 }
 
 h2 {
-    color: #ff99cc;
+    color: light blue;
 }
 
 ul, ol {
